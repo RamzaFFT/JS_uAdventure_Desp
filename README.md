@@ -1,6 +1,8 @@
 # JS uAdventure DESPIOJADOS
 Práctica 2 de la asignatura Juegos Serios de la UCM
 
+![alt text](https://github.com/RamzaFFT/JS_uAdventure_Desp/blob/master/Ti%CC%81tulo.png)
+
 ## Introducción
 **DESPIOJADOS** es el juego que hemos creado el Grupo 1 para la práctica 2 de la asignatura **JUEGOS SERIOS** en la **Universidad Complutense de Madrid**. 
 
