@@ -10,7 +10,9 @@ Es un juego serio sobre la importancia de cómo deben actuar los niños cuando c
 
 ## Importación del proyecto
 
-Enlace a google drive para bajar el proyecto entero:
+Enlace a google drive para bajar el proyecto entero: 
+
+https://drive.google.com/drive/folders/1eHUE8CoHK2_4F0LJiF2rcb4gG3OizOMa?usp=sharing
 
 ## Vídeo gameplay del juego
 
@@ -18,4 +20,5 @@ Enlace a google drive para bajar el proyecto entero:
 
 ## GDD
 
-...
+[GDD de Despiojados](https://github.com/RamzaFFT/JS_uAdventure_Desp/blob/master/Despiojados_GDD.pdf)
+
