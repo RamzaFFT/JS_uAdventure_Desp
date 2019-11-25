@@ -1,6 +1,8 @@
 # JS uAdventure DESPIOJADOS
 Práctica 2 de la asignatura Juegos Serios de la UCM
 
+![alt text](https://github.com/RamzaFFT/JS_uAdventure_Desp/blob/master/Cre%CC%81ditos%20y%20Referencias/InfoProyectoJS.png)
+
 ![alt text](https://github.com/RamzaFFT/JS_uAdventure_Desp/blob/master/Ti%CC%81tulo.png)
 
 ## Introducción
